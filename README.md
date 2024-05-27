@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Moeletsi25
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Data analysis with python and R
+- 🌱 I’m skillfull  Data analysis with python, SQL  and R (visualization tools : Power bI)
 - 💞️ I’m looking to collaborate on project that involve data analysis
 - 📫 How to reach me {phaahlamoeletsi6@gmail.com}{+27684209771}
 - 😄 Pronouns: Him
