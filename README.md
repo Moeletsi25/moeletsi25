@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Moeletsi25
+- 👋 Hi, I’m Moeletsi25
 - 👀 I’m interested in Data Science
 - 🌱 I’m skillfull  Data analysis with python, SQL  and R (visualization tools : Power bI)
 - 💞️ I’m looking to collaborate on project that involve data analysis
